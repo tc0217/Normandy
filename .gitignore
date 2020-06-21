@@ -1,6 +1,3 @@
-.vs/
-.bin/
-.obj/
-./SensorDatabase/vs/
-./SensorDatabase/bin/
-./SensorDatabase/obj/
+vs/
+bin/
+obj/
